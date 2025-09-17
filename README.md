@@ -4,7 +4,7 @@ Una API REST que permite acceder a las frases más icónicas de importantes pers
 
 ## 🎯 Descripción
 
-Esta API proporciona acceso programático a citas históricas de personajes emblemáticos de la historia colombiana, incluyendo políticos, héroes de la independencia, científicos y líderes sociales.
+Esta API proporciona acceso programático a citas históricas de personajes emblemáticos de la historia colombiana e internacional , incluyendo políticos, héroes de la independencia, científicos y líderes en sus campos. todos de mi gusto.
 
 ## 👥 Autores Incluidos
 
@@ -16,6 +16,16 @@ Esta API proporciona acceso programático a citas históricas de personajes embl
 - **Antonio José de Sucre** - Gran Mariscal de Ayacucho
 - **José Celestino Mutis** - Científico y botánico
 - **Gustavo Rojas Pinilla** - Presidente de Colombia
+
+#Autores internacionales
+-Linus Torvalds - Creador de Linux
+-Donald Knuth - Científico de la computación
+-Carl Sagan - Astrónomo/Cosmólogo
+-Galileo Galilei - Astrónomo/Físico clásico
+-Antonino Zichichi - Físico nuclear moderno
+-Isaac Asimov - Escritor de ciencia ficción
+-Ridley Scott - Director de cine
+-Tupac Shakur (2Pac) - Rapper/Activista
 
 ## 🚀 Instalación y Uso
 
@@ -282,3 +292,4 @@ Para preguntas o sugerencias sobre esta API, puedes contactar al desarrollador.
 ---
 
 **¡Disfruta explorando las citas históricas colombianas! 🇨🇴**
+
