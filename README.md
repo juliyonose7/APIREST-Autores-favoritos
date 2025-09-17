@@ -18,14 +18,14 @@ Esta API proporciona acceso programático a citas históricas de personajes embl
 - **Gustavo Rojas Pinilla** - Presidente de Colombia
 
 #Autores internacionales
--Linus Torvalds - Creador de Linux
--Donald Knuth - Científico de la computación
--Carl Sagan - Astrónomo/Cosmólogo
--Galileo Galilei - Astrónomo/Físico clásico
--Antonino Zichichi - Físico nuclear moderno
--Isaac Asimov - Escritor de ciencia ficción
--Ridley Scott - Director de cine
--Tupac Shakur (2Pac) - Rapper/Activista
+- **Linus Torvalds** - Creador de Linux
+- **Donald Knuth** - Científico de la computación
+- **Carl Sagan** - Astrónomo/Cosmólogo
+- **Galileo Galilei** - Astrónomo/Físico clásico
+- **Antonino Zichichi** - Físico nuclear moderno
+- **Isaac Asimov** - Escritor de ciencia ficción
+- **Ridley Scott** - Director de cine
+- **Tupac Shakur or 2Pac** - Rapper/Activista
 
 ## 🚀 Instalación y Uso
 
@@ -292,4 +292,5 @@ Para preguntas o sugerencias sobre esta API, puedes contactar al desarrollador.
 ---
 
 **¡Disfruta explorando las citas históricas colombianas! 🇨🇴**
+
 
